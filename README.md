@@ -1,4 +1,4 @@
-# AI_paper_review
+# AI Paper Review
 
 - [(YOLO) You Only Look Once: Unified, Real-Time Object Detection](https://haseong8012.tistory.com/46)
 - [(CycleGAN) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://haseong8012.tistory.com/9)
